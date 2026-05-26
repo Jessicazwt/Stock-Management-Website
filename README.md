@@ -7,8 +7,7 @@ Stock Management Website is a UI/UX website design project created to simplify i
 Add project screenshots here
 
 Example:
-![Dashboard](img/dashboard.png)
-![Stock Data](img/stock-data.png)
+<img width="23571" height="1084" alt="stock png" src="https://github.com/user-attachments/assets/ed0c2e83-2ca4-455c-8723-7649f144f03b" />
 
 ## Tech Stack
 - Figma
